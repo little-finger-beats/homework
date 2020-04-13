@@ -1,0 +1,16 @@
+[h1shao@MiWiFi-R4CM-srv Q3]$ g++ fib1.cpp -o testfib1
+[h1shao@MiWiFi-R4CM-srv Q3]$ g++ fib2.cpp -o testfib2
+[h1shao@MiWiFi-R4CM-srv Q3]$ g++ fib3.cpp -o testfib3
+[h1shao@MiWiFi-R4CM-srv Q3]$ ./testfib1
+please check your input: <program> <n>
+[h1shao@MiWiFi-R4CM-srv Q3]$ ./testfib2
+please check your input: <program> <n>
+[h1shao@MiWiFi-R4CM-srv Q3]$ ./testfib3
+please check your input: <program> <n>
+[h1shao@MiWiFi-R4CM-srv Q3]$ ./testfib1 12
+fn(1) + fn(2) + fn(3) + fn(4) + fn(5) + fn(6) + fn(7) + fn(8) + fn(9) + fn(10) + fn(11) + fn(12) = 1 + 1 + 2 + 4 + 8 + 16 + 32 + 64 + 128 + 256 + 512 + 1024= 2048
+[h1shao@MiWiFi-R4CM-srv Q3]$ ./testfib2 12
+sum of fn(1) to fn(12) is 2048
+[h1shao@MiWiFi-R4CM-srv Q3]$ ./testfib3 12
+sum of fn(1) to fn(12) is 2048
+

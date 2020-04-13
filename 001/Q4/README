@@ -1,0 +1,6 @@
+[h1shao@MiWiFi-R4CM-srv Q4]$ g++ newdate.cpp -o testnewdate
+[h1shao@MiWiFi-R4CM-srv Q4]$ ./testnewdate
+please check your input: <program> <date.year> <date.month> <date.day> <days>
+[h1shao@MiWiFi-R4CM-srv Q4]$ ./testnewdate 2020 4 5 360
+current is 2020-4-5, after 360days, it is 2021-4-1
+

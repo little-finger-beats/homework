@@ -1,0 +1,6 @@
+[h1shao@MiWiFi-R4CM-srv Q1]$ g++ fn.cpp -o testfn
+[h1shao@MiWiFi-R4CM-srv Q1]$ ./testfn
+please check your input: <program> <n> <i>
+[h1shao@MiWiFi-R4CM-srv Q1]$ ./testfn 10 1
+fn(1 - 10): 55
+

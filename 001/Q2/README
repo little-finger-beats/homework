@@ -1,0 +1,6 @@
+[h1shao@MiWiFi-R4CM-srv Q2]$ g++ date.cpp -o testdate
+[h1shao@MiWiFi-R4CM-srv Q2]$ ./testdate
+please check your input: <program> <date1.year> <date1.month> <date1.day> <date2.year> <date2.month> <date2.day>
+[h1shao@MiWiFi-R4CM-srv Q2]$ ./testdate 2020 4 5 3058 4 2
+days between d1 and d2 is 379118
+
